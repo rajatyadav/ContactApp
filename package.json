@@ -1,0 +1,28 @@
+{
+  "name": "ContactApp",
+  "version": "0.0.0",
+  "description": "",
+  "main": "accounts.js",
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "bourne": "^0.4.0",
+    "bower": "^1.3.12",
+    "express": "^4.10.2",
+    "express-session": "^1.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajatyadav/ContactApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajatyadav/ContactApp/issues"
+  },
+  "homepage": "https://github.com/rajatyadav/ContactApp"
+}
